@@ -17,6 +17,10 @@
   overflow-x: auto;
 }
 
+#bicicleta .bicletas-lista ul {
+  padding: 0px 0px 20px 0px;
+}
+
 .bicletas-lista li {
   flex: 1;
   min-width: 280px;
