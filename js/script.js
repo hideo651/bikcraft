@@ -53,3 +53,9 @@ galeria.forEach((img) => {
     }
   });
 });
+
+//-----------------------------------------------------------------
+
+if (window.SimpleAnime) {
+  new SimpleAnime();
+}
