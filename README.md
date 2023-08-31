@@ -6,4 +6,4 @@
 
 O site simula o funcionamento de um e-comerce para uma empresa que fabrica bicicletas personalizadas de acordo com o gosto do cliente.
 
-Link do site: https://hideo651.github.io/bikcraft/
+Link do site: https://hideo651.github.io/bikcraft/git
